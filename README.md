@@ -43,9 +43,9 @@ Dependencies:
 + dataset.py: data process.
 + main.py: train and test the model under S1 setting.
 + denovel.py: train and test the model under S2-s4 setting.
-+ hyperparameter.py: set the hyperparameter of HpyerAttentionDTI
-+ model.py: HpyerAttentionDTA model architecture
-+ pytorchtools: early stopping
++ hyperparameter.py: set the hyperparameter 
++ model.py: model architecture
+
 
 
 
